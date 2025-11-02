@@ -2,27 +2,27 @@ const waNumber = "6282283996884";
 
 const categories = {
   "🤖 CHATGPT": [
-    { name: "ChatGPT 1 Minggu — Diskon", price: 15000, image: "https://i.ibb.co/QQ6x8Gb/chatgpt.jpg" },
-    { name: "ChatGPT 1 Bulan — Diskon", price: 30000, image: "https://i.ibb.co/QQ6x8Gb/chatgpt.jpg" },
-    { name: "ChatGPT 1 Bulan Private — Promo", price: 70000, image: "https://i.ibb.co/QQ6x8Gb/chatgpt.jpg" }
+    { name: "ChatGPT 1 Minggu — Diskon", price: 15000, image: "https://upload.wikimedia.org/wikipedia/commons/1/13/ChatGPT-Logo.png" },
+    { name: "ChatGPT 1 Bulan — Diskon", price: 30000, image: "https://upload.wikimedia.org/wikipedia/commons/1/13/ChatGPT-Logo.png" },
+    { name: "ChatGPT 1 Bulan Private — Promo", price: 70000, image: "https://upload.wikimedia.org/wikipedia/commons/1/13/ChatGPT-Logo.png" }
   ],
   "📺 YOUTUBE PREMIUM": [
-    { name: "YouTube FamPlan — 5k", price: 5000, image: "https://i.ibb.co/hCSjDpV/youtube.jpg" },
-    { name: "YouTube FamHead — 8k", price: 8000, image: "https://i.ibb.co/hCSjDpV/youtube.jpg" },
-    { name: "YouTube IndPlan — 10k", price: 10000, image: "https://i.ibb.co/hCSjDpV/youtube.jpg" }
+    { name: "YouTube FamPlan — 5k", price: 5000, image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/YouTube_Premium_logo.svg" },
+    { name: "YouTube FamHead — 8k", price: 8000, image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/YouTube_Premium_logo.svg" },
+    { name: "YouTube IndPlan — 10k", price: 10000, image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/YouTube_Premium_logo.svg" }
   ],
   "🎨 CANVA PRO": [
-    { name: "Canva 1 Bulan — 3k", price: 3000, image: "https://i.ibb.co/5kKpR9h/canva.jpg" },
-    { name: "Canva 2 Bulan — 5k", price: 5000, image: "https://i.ibb.co/5kKpR9h/canva.jpg" },
-    { name: "Canva 5 Bulan — 10k", price: 10000, image: "https://i.ibb.co/5kKpR9h/canva.jpg" }
+    { name: "Canva 1 Bulan — 3k", price: 3000, image: "https://paas-file-pro.igv.com/shop/664e7fae8c155258fe91be5b_1038x984.png" },
+    { name: "Canva 2 Bulan — 5k", price: 5000, image: "https://paas-file-pro.igv.com/shop/664e7fae8c155258fe91be5b_1038x984.png" },
+    { name: "Canva 5 Bulan — 10k", price: 10000, image: "https://paas-file-pro.igv.com/shop/664e7fae8c155258fe91be5b_1038x984.png" }
   ],
   "🍿 NETFLIX": [
-    { name: "Netflix SemiPrivate — 30k", price: 30000, image: "https://i.ibb.co/Drz8gMt/netflix.jpg" },
-    { name: "Netflix Private — 130k", price: 130000, image: "https://i.ibb.co/Drz8gMt/netflix.jpg" }
+    { name: "Netflix SemiPrivate — 30k", price: 30000, image: "https://www.svgrepo.com/show/303341/netflix-1-logo.svg" },
+    { name: "Netflix Private — 130k", price: 130000, image: "https://www.svgrepo.com/show/303341/netflix-1-logo.svg" }
   ],
   "🎧 SPOTIFY PREMIUM": [
-    { name: "Spotify IndPlan (1 Bulan)", price: 8000, image: "https://i.ibb.co/4ZW4LfG/spotify.jpg" },
-    { name: "Spotify FamPlan (1 Bulan)", price: 20000, image: "https://i.ibb.co/4ZW4LfG/spotify.jpg" }
+    { name: "Spotify IndPlan (1 Bulan)", price: 8000, image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" },
+    { name: "Spotify FamPlan (1 Bulan)", price: 20000, image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" }
   ]
 };
 
